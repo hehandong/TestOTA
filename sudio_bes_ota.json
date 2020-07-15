@@ -1,0 +1,14 @@
+[
+    {
+        "typeName": "Left",
+        "type": "1",
+        "url": "asset:///hts119_hlm_s5068_2300zp_APP_L_V1.4.bin"
+    },
+
+    {
+        "typeName": "Right",
+        "type": "0",
+        "url": "asset:///hts119_hlm_s5068_2300zp_APP_R_V1.4.bin"
+    }
+
+]
