@@ -1,14 +1,29 @@
-[
-    {
-        "typeName": "Left",
-        "type": "1",
-        "url": "asset:///hts119_hlm_s5068_2300zp_APP_L_V1.4.bin"
-    },
+{
+	"earphones": [{
+			"name": "Sudio Ett",
+			"vendorID": "19731",
+			"version": "1.0.8",
+			"describe": "Feature added&Bug fixes&Language support",
+			"url": "https://github.com/hehandong/TestOTA/blob/master/hts119_hlm_s5068_2300zp_APP_L_V1.7.bin?raw=true",
+			"url2": "https://github.com/hehandong/TestOTA/blob/master/hts119_hlm_s5068_2300zp_APP_R_V1.7.bin?raw=true"
+		},
 
-    {
-        "typeName": "Right",
-        "type": "0",
-        "url": "asset:///hts119_hlm_s5068_2300zp_APP_R_V1.4.bin"
-    }
+		{
+			"name": "Sudio Fem",
+			"vendorID": "19732",
+			"version": "1.0.8",
+			"describe": "Feature added&Bug fixes&Language support",
+			"url": "https://github.com/hehandong/TestOTA/blob/master/hts119_hlm_s5068_2300zp_APP_R_V1.7.bin?raw=true",
+			"url2": "https://github.com/hehandong/TestOTA/blob/master/hts119_hlm_s5068_2300zp_APP_R_V1.7.bin?raw=true"
+		},
+		{
+			"name": "Sudio Regent II",
+			"vendorID": "19733",
+			"version": "1.0.8",
+			"describe": "Feature added&Bug fixes&Language support",
+			"url": "https://github.com/hehandong/TestOTA/blob/master/hts119_hlm_s5068_2300zp_APP_R_V1.7.bin?raw=true",
+			"url2": "https://github.com/hehandong/TestOTA/blob/master/hts119_hlm_s5068_2300zp_APP_R_V1.7.bin?raw=true"
+		}
 
-]
+	]
+}
