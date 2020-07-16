@@ -2,10 +2,10 @@
 	"earphones": [{
 			"name": "Sudio Ett",
 			"vendorID": "19731",
-			"version": "1.8",
+			"version": "1.6",
 			"describe": "Feature added,Bug fixes,Language support",
-			"url": "https://github.com/hehandong/TestOTA/blob/master/hts119_hlm_s5068_2300zp_APP_L_V1.8.bin?raw=true",
-			"url2": "https://github.com/hehandong/TestOTA/blob/master/hts119_hlm_s5068_2300zp_APP_R_V1.8.bin?raw=true"
+			"url": "https://github.com/hehandong/TestOTA/blob/master/hts119_hlm_s5068_2300zp_APP_L_V1.6.bin?raw=true",
+			"url2": "https://github.com/hehandong/TestOTA/blob/master/hts119_hlm_s5068_2300zp_APP_R_V1.6.bin?raw=true"
 		},
 
 		{
